@@ -1,0 +1,1071 @@
+TMyOperationQueue
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/Info.plist MyOperationQueue/MyOperationQueue-Info.plist
+cProcessPCH /var/folders/s_/w4l9jw3d27nb33b6dj5whpcr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyOperationQueue-Prefix-eipkhlvdfeqijhbbvixfmbdcemhw/MyOperationQueue-Prefix.pch.pth MyOperationQueue/MyOperationQueue-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/AppDelegate.o /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/JSONParser.o /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/../JSONParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Commits.o /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Commits.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/ViewController.o /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/main.o /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/ConnectionOperation.o /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/../ConnectionOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/NetworkingThread.o /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/../NetworkingThread.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Branch.o /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Branch.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Issues.o /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Issues.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Milestone.o /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Milestone.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Person.o /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Person.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Project.o /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Project.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/ProjectMember.o /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/ProjectMember.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Session.o /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Session.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/SSHKey.o /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/SSHKey.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/User.o /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/User.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/DataSource.o /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/DataSource.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Mapper.o /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/../Mapper.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/JSONKit.o /Users/korzun1993/Documents/Project/MyOperationQueue/JSONKit.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/MyOperationQueue normal i386
+cGenerateDSYMFile /Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app.dSYM /Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/MyOperationQueue
+cCopyStringsFile /Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/en.lproj/InfoPlist.strings MyOperationQueue/en.lproj/InfoPlist.strings
+cCpResource MyOperationQueue/Default.png build/Debug-iphonesimulator/MyOperationQueue.app/Default.png
+cCpResource MyOperationQueue/Default@2x.png build/Debug-iphonesimulator/MyOperationQueue.app/Default@2x.png
+cCpResource MyOperationQueue/Default-568h@2x.png build/Debug-iphonesimulator/MyOperationQueue.app/Default-568h@2x.png
+cCompileXIB /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/en.lproj/ViewController.xib
+cTouch /Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+c000000005083CA2B0000000000000110
+t1350814251
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000505B86CC0000000000228FD0
+t1348175564
+s2265040
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000505B86CD00000000003DCEF0
+t1348175565
+s4050672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c00000000505B86CD00000000000015F7
+t1348175565
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c00000000505B86D00000000000000E8D
+t1348175568
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000505B86D20000000000AB3D60
+t1348175570
+s11222368
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/Availability.h
+c00000000505B86DC0000000000001B54
+t1348175580
+s6996
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/Classes/../Classes/JSONKit.m
+c00000000507D386A000000000002B471
+t1350383722
+s177265
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/Classes/../DataSourceProtocol.h
+c0000000050846172000000000000015D
+t1350852978
+s349
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/Classes/../initializationProtocol.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Branch.h
+c00000000508461FF0000000000000179
+t1350853119
+s377
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Branch.m
+c00000000508465170000000000000214
+t1350853911
+s532
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Commits.h
+c00000000508461FF0000000000000248
+t1350853119
+s584
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Commits.m
+c000000005084651700000000000003B9
+t1350853911
+s953
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Issues.h
+c00000000508461FF0000000000000305
+t1350853119
+s773
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Issues.m
+c000000005084651700000000000005D7
+t1350853911
+s1495
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/Classes/JSONKit.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/Classes/JSONKit.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Milestone.h
+c00000000508461FF0000000000000227
+t1350853119
+s551
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Milestone.m
+c000000005084651700000000000003C2
+t1350853911
+s962
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Person.h
+c00000000508461FF000000000000020A
+t1350853119
+s522
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Person.m
+c00000000508465170000000000000383
+t1350853911
+s899
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Project.h
+c00000000508461FF00000000000002B4
+t1350853119
+s692
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Project.m
+c00000000508465170000000000000510
+t1350853911
+s1296
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/Classes/ProjectMember.h
+c00000000508461FF0000000000000176
+t1350853119
+s374
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/Classes/ProjectMember.m
+c00000000508465170000000000000261
+t1350853911
+s609
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/Classes/SSHKey.h
+c00000000508461FF00000000000001BB
+t1350853119
+s443
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/Classes/SSHKey.m
+c000000005084651700000000000002AD
+t1350853911
+s685
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Session.h
+c000000005084651700000000000002C3
+t1350853911
+s707
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Session.m
+c000000005084651700000000000004A9
+t1350853911
+s1193
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/Classes/User.h
+c00000000508461FF00000000000002FC
+t1350853119
+s764
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/Classes/User.m
+c00000000508465170000000000000584
+t1350853911
+s1412
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/ConectionOperation.m
+c00000000508252F0000000000000010A
+t1350718192
+s266
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/ConnectionOperation.h
+c00000000508277BB0000000000000242
+t1350727611
+s578
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/ConnectionOperation.m
+c0000000050846FF400000000000002EF
+t1350856692
+s751
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/JSONKit.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/JSONKit.m
+c00000000507D386A000000000002B471
+t1350383722
+s177265
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/JSONParser.h
+c000000005084477B000000000000018A
+t1350846331
+s394
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/JSONParser.m
+c0000000050847444000000000000020C
+t1350857796
+s524
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/Mapper.h
+c0000000050844E410000000000000218
+t1350848065
+s536
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/Mapper.m
+c000000005084620C00000000000003EA
+t1350853132
+s1002
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/MapperProtocol.h
+c000000005084477B0000000000000139
+t1350846331
+s313
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/../ConnectionOperation.m
+c0000000050846FF400000000000002EF
+t1350856692
+s751
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/../JSONKit.h
+c00000000507D386A0000000000002DBE
+t1350383722
+s11710
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/../JSONParser.m
+c0000000050847444000000000000020C
+t1350857796
+s524
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/../Mapper.m
+c000000005084620C00000000000003EA
+t1350853132
+s1002
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/../NetworkingThread.m
+c000000005082749E0000000000000326
+t1350726814
+s806
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/AppDelegate.h
+c0000000050825203000000000000019E
+t1350717955
+s414
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/AppDelegate.m
+c000000005082520300000000000009AD
+t1350717955
+s2477
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/DataCameProtocol.h
+c0000000050844D930000000000000129
+t1350847891
+s297
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/DataSource.h
+c0000000050847444000000000000028E
+t1350857796
+s654
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/DataSource.m
+c00000000508480050000000000000808
+t1350860805
+s2056
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/Default-568h@2x.png
+c0000000050262AB100000000000048A2
+t1344678577
+s18594
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/Default.png
+c0000000050262AB1000000000000198C
+t1344678577
+s6540
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/Default@2x.png
+c0000000050262AB10000000000003EEB
+t1344678577
+s16107
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/MyOperationQueue-Prefix.pch
+c0000000050825203000000000000014F
+t1350717955
+s335
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/ViewController.h
+c00000000508465170000000000000192
+t1350853911
+s402
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/ViewController.m
+c0000000050846658000000000000036F
+t1350854232
+s879
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/en.lproj/InfoPlist.strings
+c0000000050825203000000000000002D
+t1350717955
+s45
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/en.lproj/ViewController.xib
+c00000000508252030000000000001782
+t1350717955
+s6018
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/main.m
+c00000000508252030000000000000182
+t1350717955
+s386
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/NetWorkingThread.m
+c0000000050826AD50000000000000104
+t1350724309
+s260
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/NetworkingThread.h
+c00000000508273020000000000000135
+t1350726402
+s309
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/NetworkingThread.m
+c000000005082749E0000000000000326
+t1350726814
+s806
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/NetworkingThread.temp_caseinsensitive_rename.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/Parser.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/Parser.m
+c00000000508280BF000000000000013C
+t1350729919
+s316
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/ParserProtocol.h
+c000000005084477C000000000000015E
+t1350846332
+s350
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app
+t1350860769
+s306
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app.dSYM
+t1350860768
+s102
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/Default-568h@2x.png
+t1350717973
+s18594
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/Default.png
+t1350717973
+s6540
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/Default@2x.png
+t1350717973
+s16107
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/Info.plist
+t1350836348
+s832
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/MyOperationQueue
+t1350860768
+s263600
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/PkgInfo
+t1350836348
+s8
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/en.lproj/InfoPlist.strings
+t1350717973
+s42
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/en.lproj/ViewController.nib
+t1350717974
+s862
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/AppDelegate.o
+t1350859819
+s90152
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Branch.o
+t1350853911
+s10340
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Commits.o
+t1350853911
+s17500
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/ConectionOperation.o
+t2
+s0
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/ConnectionOperation.o
+t1350859682
+s15416
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/DataSource.o
+t1350860767
+s87924
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Issues.o
+t1350853911
+s24804
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/JSONKit.o
+t1350859819
+s261360
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/JSONParser.o
+t1350859819
+s10028
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Mapper.o
+t1350859682
+s14896
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Milestone.o
+t1350853911
+s17036
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/MyOperationQueue.LinkFileList
+c00000000508478B80000000000000BCA
+t1350858936
+s3018
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/NetWorkingThread.o
+t2
+s0
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/NetworkingThread.o
+t1350859682
+s9888
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/NetworkingThread.temp_caseinsensitive_rename.o
+t2
+s0
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Parser.o
+t1350731047
+s5276
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Person.o
+t1350853911
+s16520
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Project.o
+t1350853911
+s21756
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/ProjectMember.o
+t1350853911
+s11364
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/SSHKey.o
+t1350853912
+s13468
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Session.o
+t1350853911
+s18720
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/User.o
+t1350853912
+s25176
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/ViewController.o
+t1350859819
+s74164
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/main.o
+t1350836349
+s3224
+
+N/var/folders/s_/w4l9jw3d27nb33b6dj5whpcr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyOperationQueue-Prefix-cphgwnoxyfsxutexcbjgppbmmgzp/MyOperationQueue-Prefix.pch.pth
+t1350717972
+s4830272
+
+N/var/folders/s_/w4l9jw3d27nb33b6dj5whpcr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyOperationQueue-Prefix-eipkhlvdfeqijhbbvixfmbdcemhw/MyOperationQueue-Prefix.pch.pth
+t1350836348
+s4830272
+
+NMyOperationQueue/MyOperationQueue-Info.plist
+c0000000050825203000000000000048E
+t1350717955
+s1166
+
+CBuild AST from /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/../Classes/JSONKit.m
+r0
+
+CBuild AST from /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Branch.m
+r0
+
+CBuild AST from /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Commits.m
+r0
+
+CBuild AST from /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Issues.m
+r0
+
+CBuild AST from /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/JSONKit.m
+r0
+
+CBuild AST from /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Milestone.m
+r0
+
+CBuild AST from /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Person.m
+r0
+
+CBuild AST from /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Project.m
+r0
+
+CBuild AST from /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/ProjectMember.m
+r0
+
+CBuild AST from /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/SSHKey.m
+r0
+
+CBuild AST from /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Session.m
+r0
+
+CBuild AST from /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/User.m
+r0
+
+CBuild AST from /Users/korzun1993/Documents/Project/MyOperationQueue/ConectionOperation.m
+r0
+
+CBuild AST from /Users/korzun1993/Documents/Project/MyOperationQueue/ConnectionOperation.m
+r0
+
+CBuild AST from /Users/korzun1993/Documents/Project/MyOperationQueue/JSONKit.m
+r0
+
+CBuild AST from /Users/korzun1993/Documents/Project/MyOperationQueue/JSONParser.m
+r0
+
+CBuild AST from /Users/korzun1993/Documents/Project/MyOperationQueue/Mapper.m
+r0
+
+CBuild AST from /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/../ConnectionOperation.m
+r0
+
+CBuild AST from /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/../JSONParser.m
+r0
+
+CBuild AST from /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/../Mapper.m
+r0
+
+CBuild AST from /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/../NetworkingThread.m
+r0
+
+CBuild AST from /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/AppDelegate.m
+r0
+
+CBuild AST from /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/DataSource.m
+r0
+
+CBuild AST from /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/ViewController.m
+r0
+
+CBuild AST from /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/main.m
+r0
+
+CBuild AST from /Users/korzun1993/Documents/Project/MyOperationQueue/NetWorkingThread.m
+r0
+
+CBuild AST from /Users/korzun1993/Documents/Project/MyOperationQueue/NetworkingThread.m
+r0
+
+CBuild AST from /Users/korzun1993/Documents/Project/MyOperationQueue/NetworkingThread.temp_caseinsensitive_rename.m
+r0
+
+CBuild AST from /Users/korzun1993/Documents/Project/MyOperationQueue/Parser.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesb20d1c85b734b641^96591c85b734b641^---0#1#0#--18"Check dependencies36"AA237F29-15B1-40BE-9CBE-1407B54CEAB6-
+
+CCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/AppDelegate.o /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s372552617.212664
+e372552619.359212
+r1
+xCompileC
+xbuild/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/AppDelegate.o
+x/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/AppDelegate.mbf9b36a9b334b641^a4fd5babb334b641^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/AppDelegate.m0000000000000000^3944"CompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/AppDelegate.o MyOperationQueue/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/korzun1993/Documents/Project/MyOperationQueue    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-generated-files.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-own-target-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-all-target-headers.hmap -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-project-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources/i386 -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources -F/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator -include /var/folders/s_/w4l9jw3d27nb33b6dj5whpcr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyOperationQueue-Prefix-eipkhlvdfeqijhbbvixfmbdcemhw/MyOperationQueue-Prefix.pch -MMD -MT dependencies -MF /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/AppDelegate.dia -c /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/AppDelegate.m -o /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/AppDelegate.o36"845B80C6-1DD0-462D-8018-E9189780C760-
+
+CCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Branch.o /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Branch.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s372546711.726998
+e372546711.784680
+r1
+xCompileC
+xbuild/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Branch.o
+x/Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Branch.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Branch.m5f41ba979c34b641^6ff5c8979c34b641^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Branch.m0000000000000000^3896"CompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Branch.o Classes/Branch.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/korzun1993/Documents/Project/MyOperationQueue    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-generated-files.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-own-target-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-all-target-headers.hmap -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-project-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources/i386 -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources -F/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator -include /var/folders/s_/w4l9jw3d27nb33b6dj5whpcr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyOperationQueue-Prefix-eipkhlvdfeqijhbbvixfmbdcemhw/MyOperationQueue-Prefix.pch -MMD -MT dependencies -MF /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Branch.d --serialize-diagnostics /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Branch.dia -c /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Branch.m -o /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Branch.o36"C410F95F-6552-4108-A890-6E7BE71B00DF-
+
+CCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Commits.o /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Commits.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s372546711.732364
+e372546711.807060
+r1
+xCompileC
+xbuild/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Commits.o
+x/Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Commits.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Commits.mc495bb979c34b641^e19bce979c34b641^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Commits.m0000000000000000^3902"CompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Commits.o Classes/Commits.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/korzun1993/Documents/Project/MyOperationQueue    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-generated-files.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-own-target-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-all-target-headers.hmap -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-project-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources/i386 -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources -F/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator -include /var/folders/s_/w4l9jw3d27nb33b6dj5whpcr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyOperationQueue-Prefix-eipkhlvdfeqijhbbvixfmbdcemhw/MyOperationQueue-Prefix.pch -MMD -MT dependencies -MF /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Commits.d --serialize-diagnostics /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Commits.dia -c /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Commits.m -o /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Commits.o36"ED142D7F-766F-4087-A6CE-A66EB3AE1FDA-
+
+CCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/ConectionOperation.o /Users/korzun1993/Documents/Project/MyOperationQueue/ConectionOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/ConnectionOperation.o /Users/korzun1993/Documents/Project/MyOperationQueue/ConnectionOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s372549492.627865
+e372549492.958140
+r1
+xCompileC
+xbuild/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/ConnectionOperation.o
+x/Users/korzun1993/Documents/Project/MyOperationQueue/ConnectionOperation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/korzun1993/Documents/Project/MyOperationQueue/ConnectionOperation.m7ee2a074a734b641^8848f574a734b641^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/korzun1993/Documents/Project/MyOperationQueue/ConnectionOperation.m0000000000000000^3958"CompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/ConnectionOperation.o ConnectionOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/korzun1993/Documents/Project/MyOperationQueue    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-generated-files.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-own-target-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-all-target-headers.hmap -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-project-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources/i386 -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources -F/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator -include /var/folders/s_/w4l9jw3d27nb33b6dj5whpcr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyOperationQueue-Prefix-eipkhlvdfeqijhbbvixfmbdcemhw/MyOperationQueue-Prefix.pch -MMD -MT dependencies -MF /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/ConnectionOperation.d --serialize-diagnostics /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/ConnectionOperation.dia -c /Users/korzun1993/Documents/Project/MyOperationQueue/ConnectionOperation.m -o /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/ConnectionOperation.o36"7F6E2CD9-D268-4C73-8C0F-93AC6BFA7D4A-
+
+CCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/ConnectionOperation.o /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/../ConnectionOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s372552480.753578
+e372552482.587951
+r1
+xCompileC
+xbuild/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/ConnectionOperation.o
+x/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/../ConnectionOperation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/../ConnectionOperation.mb613c120b334b641^073f9d22b334b641^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/../ConnectionOperation.m0000000000000000^3998"CompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/ConnectionOperation.o MyOperationQueue/../ConnectionOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/korzun1993/Documents/Project/MyOperationQueue    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-generated-files.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-own-target-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-all-target-headers.hmap -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-project-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources/i386 -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources -F/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator -include /var/folders/s_/w4l9jw3d27nb33b6dj5whpcr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyOperationQueue-Prefix-eipkhlvdfeqijhbbvixfmbdcemhw/MyOperationQueue-Prefix.pch -MMD -MT dependencies -MF /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/ConnectionOperation.d --serialize-diagnostics /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/ConnectionOperation.dia -c /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/../ConnectionOperation.m -o /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/ConnectionOperation.o36"847EFC18-24ED-4529-9300-3AE4BB04F862-
+
+CCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/DataSource.o /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/DataSource.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s372553605.139489
+e372553605.217672
+r1
+xCompileC
+xbuild/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/DataSource.o
+x/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/DataSource.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/DataSource.mb2d72385b734b641^43ca3785b734b641^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/DataSource.m0000000000000000^3938"CompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/DataSource.o MyOperationQueue/DataSource.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/korzun1993/Documents/Project/MyOperationQueue    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-generated-files.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-own-target-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-all-target-headers.hmap -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-project-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources/i386 -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources -F/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator -include /var/folders/s_/w4l9jw3d27nb33b6dj5whpcr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyOperationQueue-Prefix-eipkhlvdfeqijhbbvixfmbdcemhw/MyOperationQueue-Prefix.pch -MMD -MT dependencies -MF /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/DataSource.d --serialize-diagnostics /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/DataSource.dia -c /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/DataSource.m -o /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/DataSource.o36"CC6E0C16-9E6F-4F1B-A2CC-F84EE06C4E7C-
+
+CCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Issues.o /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Issues.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s372546711.786033
+e372546711.889525
+r1
+xCompileC
+xbuild/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Issues.o
+x/Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Issues.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Issues.m1a6dc9979c34b641^5bcee5979c34b641^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Issues.m0000000000000000^3896"CompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Issues.o Classes/Issues.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/korzun1993/Documents/Project/MyOperationQueue    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-generated-files.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-own-target-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-all-target-headers.hmap -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-project-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources/i386 -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources -F/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator -include /var/folders/s_/w4l9jw3d27nb33b6dj5whpcr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyOperationQueue-Prefix-eipkhlvdfeqijhbbvixfmbdcemhw/MyOperationQueue-Prefix.pch -MMD -MT dependencies -MF /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Issues.d --serialize-diagnostics /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Issues.dia -c /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Issues.m -o /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Issues.o36"2103BBA1-19BE-4939-AE98-E373DF97DF84-
+
+CCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/JSONKit.o /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/../Classes/JSONKit.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/JSONKit.o /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/JSONKit.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s372551738.832624
+e372551739.419032
+r1
+xCompileC
+xbuild/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/JSONKit.o
+x/Users/korzun1993/Documents/Project/MyOperationQueue/Classes/JSONKit.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/JSONKit.m6345d53ab034b641^35466b3bb034b641^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/korzun1993/Documents/Project/MyOperationQueue/Classes/JSONKit.m0000000000000000^3902"CompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/JSONKit.o Classes/JSONKit.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/korzun1993/Documents/Project/MyOperationQueue    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-generated-files.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-own-target-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-all-target-headers.hmap -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-project-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources/i386 -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources -F/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator -include /var/folders/s_/w4l9jw3d27nb33b6dj5whpcr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyOperationQueue-Prefix-eipkhlvdfeqijhbbvixfmbdcemhw/MyOperationQueue-Prefix.pch -MMD -MT dependencies -MF /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/JSONKit.d --serialize-diagnostics /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/JSONKit.dia -c /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/JSONKit.m -o /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/JSONKit.o36"9DA0FA3E-27EF-436A-8A7A-D733FC1A7E82-
+
+CCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/JSONKit.o /Users/korzun1993/Documents/Project/MyOperationQueue/JSONKit.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s372552619.360354
+e372552619.885480
+r1
+xCompileC
+xbuild/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/JSONKit.o
+x/Users/korzun1993/Documents/Project/MyOperationQueue/JSONKit.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/korzun1993/Documents/Project/MyOperationQueue/JSONKit.m986c5cabb334b641^a7b0e2abb334b641^---0#0#0#-19%DVTDocumentLocation2@78"file://localhost/Users/korzun1993/Documents/Project/MyOperationQueue/JSONKit.m0000000000000000^3886"CompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/JSONKit.o JSONKit.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/korzun1993/Documents/Project/MyOperationQueue    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-generated-files.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-own-target-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-all-target-headers.hmap -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-project-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources/i386 -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources -F/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator -include /var/folders/s_/w4l9jw3d27nb33b6dj5whpcr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyOperationQueue-Prefix-eipkhlvdfeqijhbbvixfmbdcemhw/MyOperationQueue-Prefix.pch -MMD -MT dependencies -MF /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/JSONKit.d --serialize-diagnostics /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/JSONKit.dia -c /Users/korzun1993/Documents/Project/MyOperationQueue/JSONKit.m -o /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/JSONKit.o36"A366B73E-42C2-4E26-AE26-1BFEA3DFD94D-
+
+CCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/JSONParser.o /Users/korzun1993/Documents/Project/MyOperationQueue/JSONParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s372551736.809225
+e372551738.831292
+r1
+xCompileC
+xbuild/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/JSONParser.o
+x/Users/korzun1993/Documents/Project/MyOperationQueue/JSONParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/korzun1993/Documents/Project/MyOperationQueue/JSONParser.m454acf38b034b641^c0cfd43ab034b641^---0#0#0#-19%DVTDocumentLocation2@81"file://localhost/Users/korzun1993/Documents/Project/MyOperationQueue/JSONParser.m0000000000000000^3904"CompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/JSONParser.o JSONParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/korzun1993/Documents/Project/MyOperationQueue    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-generated-files.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-own-target-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-all-target-headers.hmap -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-project-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources/i386 -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources -F/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator -include /var/folders/s_/w4l9jw3d27nb33b6dj5whpcr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyOperationQueue-Prefix-eipkhlvdfeqijhbbvixfmbdcemhw/MyOperationQueue-Prefix.pch -MMD -MT dependencies -MF /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/JSONParser.d --serialize-diagnostics /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/JSONParser.dia -c /Users/korzun1993/Documents/Project/MyOperationQueue/JSONParser.m -o /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/JSONParser.o36"386BC3FF-263C-43DB-9F1A-51143E749FD4-
+
+CCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/JSONParser.o /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/../JSONParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s372552617.213987
+e372552619.358858
+r1
+xCompileC
+xbuild/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/JSONParser.o
+x/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/../JSONParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/../JSONParser.m5ce436a9b334b641^94de5babb334b641^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/../JSONParser.m0000000000000000^3944"CompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/JSONParser.o MyOperationQueue/../JSONParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/korzun1993/Documents/Project/MyOperationQueue    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-generated-files.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-own-target-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-all-target-headers.hmap -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-project-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources/i386 -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources -F/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator -include /var/folders/s_/w4l9jw3d27nb33b6dj5whpcr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyOperationQueue-Prefix-eipkhlvdfeqijhbbvixfmbdcemhw/MyOperationQueue-Prefix.pch -MMD -MT dependencies -MF /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/JSONParser.d --serialize-diagnostics /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/JSONParser.dia -c /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/../JSONParser.m -o /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/JSONParser.o36"3C75EA5C-FD3D-4BA5-8256-8C2941C28D75-
+
+CCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Mapper.o /Users/korzun1993/Documents/Project/MyOperationQueue/Mapper.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s372545932.529236
+e372545932.619275
+r1
+xCompileC
+xbuild/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Mapper.o
+x/Users/korzun1993/Documents/Project/MyOperationQueue/Mapper.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/korzun1993/Documents/Project/MyOperationQueue/Mapper.md7a4878c9934b641^ec899e8c9934b641^---0#0#0#-19%DVTDocumentLocation2@77"file://localhost/Users/korzun1993/Documents/Project/MyOperationQueue/Mapper.m0000000000000000^3880"CompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Mapper.o Mapper.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/korzun1993/Documents/Project/MyOperationQueue    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-generated-files.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-own-target-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-all-target-headers.hmap -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-project-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources/i386 -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources -F/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator -include /var/folders/s_/w4l9jw3d27nb33b6dj5whpcr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyOperationQueue-Prefix-eipkhlvdfeqijhbbvixfmbdcemhw/MyOperationQueue-Prefix.pch -MMD -MT dependencies -MF /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Mapper.d --serialize-diagnostics /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Mapper.dia -c /Users/korzun1993/Documents/Project/MyOperationQueue/Mapper.m -o /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Mapper.o36"2EF7032F-48A5-4C8E-BF7A-E6E7084C09E0-
+
+CCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Mapper.o /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/../Mapper.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s372552480.810306
+e372552482.587718
+r1
+xCompileC
+xbuild/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Mapper.o
+x/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/../Mapper.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/../Mapper.m4f91cf20b334b641^b4779622b334b641^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/../Mapper.m0000000000000000^3920"CompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Mapper.o MyOperationQueue/../Mapper.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/korzun1993/Documents/Project/MyOperationQueue    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-generated-files.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-own-target-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-all-target-headers.hmap -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-project-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources/i386 -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources -F/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator -include /var/folders/s_/w4l9jw3d27nb33b6dj5whpcr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyOperationQueue-Prefix-eipkhlvdfeqijhbbvixfmbdcemhw/MyOperationQueue-Prefix.pch -MMD -MT dependencies -MF /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Mapper.d --serialize-diagnostics /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Mapper.dia -c /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/../Mapper.m -o /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Mapper.o36"72D94318-8981-4281-B139-7C6265BDC4B1-
+
+CCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Milestone.o /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Milestone.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s372546711.808552
+e372546711.854346
+r1
+xCompileC
+xbuild/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Milestone.o
+x/Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Milestone.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Milestone.m1a1acf979c34b641^28d1da979c34b641^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Milestone.m0000000000000000^3914"CompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Milestone.o Classes/Milestone.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/korzun1993/Documents/Project/MyOperationQueue    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-generated-files.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-own-target-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-all-target-headers.hmap -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-project-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources/i386 -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources -F/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator -include /var/folders/s_/w4l9jw3d27nb33b6dj5whpcr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyOperationQueue-Prefix-eipkhlvdfeqijhbbvixfmbdcemhw/MyOperationQueue-Prefix.pch -MMD -MT dependencies -MF /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Milestone.d --serialize-diagnostics /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Milestone.dia -c /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Milestone.m -o /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Milestone.o36"F663005C-90D4-4B32-9995-5212CAEC0840-
+
+CCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/NetWorkingThread.o /Users/korzun1993/Documents/Project/MyOperationQueue/NetWorkingThread.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/NetworkingThread.o /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/../NetworkingThread.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s372552480.753562
+e372552482.666569
+r1
+xCompileC
+xbuild/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/NetworkingThread.o
+x/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/../NetworkingThread.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/../NetworkingThread.m2715c120b334b641^eca4aa22b334b641^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/../NetworkingThread.m0000000000000000^3980"CompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/NetworkingThread.o MyOperationQueue/../NetworkingThread.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/korzun1993/Documents/Project/MyOperationQueue    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-generated-files.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-own-target-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-all-target-headers.hmap -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-project-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources/i386 -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources -F/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator -include /var/folders/s_/w4l9jw3d27nb33b6dj5whpcr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyOperationQueue-Prefix-eipkhlvdfeqijhbbvixfmbdcemhw/MyOperationQueue-Prefix.pch -MMD -MT dependencies -MF /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/NetworkingThread.d --serialize-diagnostics /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/NetworkingThread.dia -c /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/../NetworkingThread.m -o /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/NetworkingThread.o36"94E3EE59-B3A3-4A59-81C6-06889661FF0F-
+
+CCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/NetworkingThread.o /Users/korzun1993/Documents/Project/MyOperationQueue/NetworkingThread.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s372529174.623961
+e372529174.717542
+r1
+xCompileC
+xbuild/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/NetworkingThread.o
+x/Users/korzun1993/Documents/Project/MyOperationQueue/NetworkingThread.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/korzun1993/Documents/Project/MyOperationQueue/NetworkingThread.m73d69f165834b641^5fb4b7165834b641^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/korzun1993/Documents/Project/MyOperationQueue/NetworkingThread.m0000000000000000^3940"CompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/NetworkingThread.o NetworkingThread.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/korzun1993/Documents/Project/MyOperationQueue    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-generated-files.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-own-target-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-all-target-headers.hmap -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-project-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources/i386 -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources -F/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator -include /var/folders/s_/w4l9jw3d27nb33b6dj5whpcr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyOperationQueue-Prefix-eipkhlvdfeqijhbbvixfmbdcemhw/MyOperationQueue-Prefix.pch -MMD -MT dependencies -MF /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/NetworkingThread.d --serialize-diagnostics /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/NetworkingThread.dia -c /Users/korzun1993/Documents/Project/MyOperationQueue/NetworkingThread.m -o /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/NetworkingThread.o36"389AF8C8-50C9-4B71-BCDF-7B6CBACB6A1F-
+
+CCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/NetworkingThread.temp_caseinsensitive_rename.o /Users/korzun1993/Documents/Project/MyOperationQueue/NetworkingThread.temp_caseinsensitive_rename.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Parser.o /Users/korzun1993/Documents/Project/MyOperationQueue/Parser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s372423846.736091
+e372423847.482360
+r1
+xCompileC
+xbuild/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Parser.o
+x/Users/korzun1993/Documents/Project/MyOperationQueue/Parser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/korzun1993/Documents/Project/MyOperationQueue/Parser.m:14:12: warning: unused variable 'responce' [-Wunused-variable]
+o NSArray * responce = [data objectFromJSONData];
+o           ^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/korzun1993/Documents/Project/MyOperationQueue/Parser.m3293bca6bc32b641^64797ba7bc32b641^-208"/Users/korzun1993/Documents/Project/MyOperationQueue/Parser.m:14:12: warning: unused variable 'responce' [-Wunused-variable] NSArray * responce = [data objectFromJSONData];           ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@26"Unused variable 'responce'-372423847#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@77"file://localhost/Users/korzun1993/Documents/Project/MyOperationQueue/Parser.m0000000000000000^13#11#13#11#270#0#19"Unused Entity Issue--0#0#0#-19%DVTDocumentLocation4@77"file://localhost/Users/korzun1993/Documents/Project/MyOperationQueue/Parser.m0000000000000000^3880"CompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Parser.o Parser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/korzun1993/Documents/Project/MyOperationQueue    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-generated-files.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-own-target-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-all-target-headers.hmap -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-project-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources/i386 -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources -F/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator -include /var/folders/s_/w4l9jw3d27nb33b6dj5whpcr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyOperationQueue-Prefix-cphgwnoxyfsxutexcbjgppbmmgzp/MyOperationQueue-Prefix.pch -MMD -MT dependencies -MF /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Parser.d --serialize-diagnostics /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Parser.dia -c /Users/korzun1993/Documents/Project/MyOperationQueue/Parser.m -o /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Parser.o36"AC8B8D02-D023-4399-8EC2-196F626FC8CD-
+
+CCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Person.o /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Person.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s372546711.855657
+e372546711.931753
+r1
+xCompileC
+xbuild/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Person.o
+x/Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Person.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Person.m713cdb979c34b641^0588ee979c34b641^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Person.m0000000000000000^3896"CompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Person.o Classes/Person.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/korzun1993/Documents/Project/MyOperationQueue    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-generated-files.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-own-target-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-all-target-headers.hmap -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-project-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources/i386 -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources -F/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator -include /var/folders/s_/w4l9jw3d27nb33b6dj5whpcr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyOperationQueue-Prefix-eipkhlvdfeqijhbbvixfmbdcemhw/MyOperationQueue-Prefix.pch -MMD -MT dependencies -MF /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Person.d --serialize-diagnostics /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Person.dia -c /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Person.m -o /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Person.o36"826B0A96-EBFF-42CB-99B9-098EEDC3C3DC-
+
+CCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Project.o /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Project.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s372546711.890975
+e372546711.938752
+r1
+xCompileC
+xbuild/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Project.o
+x/Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Project.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Project.mb746e4979c34b641^0d52f0979c34b641^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Project.m0000000000000000^3902"CompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Project.o Classes/Project.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/korzun1993/Documents/Project/MyOperationQueue    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-generated-files.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-own-target-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-all-target-headers.hmap -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-project-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources/i386 -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources -F/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator -include /var/folders/s_/w4l9jw3d27nb33b6dj5whpcr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyOperationQueue-Prefix-eipkhlvdfeqijhbbvixfmbdcemhw/MyOperationQueue-Prefix.pch -MMD -MT dependencies -MF /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Project.d --serialize-diagnostics /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Project.dia -c /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Project.m -o /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Project.o36"0A8BC4B1-31A4-45C6-8207-5F28876B105B-
+
+CCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/ProjectMember.o /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/ProjectMember.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s372546711.895105
+e372546711.929294
+r1
+xCompileC
+xbuild/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/ProjectMember.o
+x/Users/korzun1993/Documents/Project/MyOperationQueue/Classes/ProjectMember.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/ProjectMember.mb342e5979c34b641^8ae6ed979c34b641^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/korzun1993/Documents/Project/MyOperationQueue/Classes/ProjectMember.m0000000000000000^3938"CompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/ProjectMember.o Classes/ProjectMember.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/korzun1993/Documents/Project/MyOperationQueue    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-generated-files.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-own-target-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-all-target-headers.hmap -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-project-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources/i386 -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources -F/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator -include /var/folders/s_/w4l9jw3d27nb33b6dj5whpcr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyOperationQueue-Prefix-eipkhlvdfeqijhbbvixfmbdcemhw/MyOperationQueue-Prefix.pch -MMD -MT dependencies -MF /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/ProjectMember.d --serialize-diagnostics /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/ProjectMember.dia -c /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/ProjectMember.m -o /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/ProjectMember.o36"8AA1350F-623E-466B-87FE-C7EDACFC0C78-
+
+CCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/SSHKey.o /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/SSHKey.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s372546711.932936
+e372546712.018080
+r1
+xCompileC
+xbuild/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/SSHKey.o
+x/Users/korzun1993/Documents/Project/MyOperationQueue/Classes/SSHKey.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/SSHKey.m97fdee979c34b641^da0206989c34b641^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/korzun1993/Documents/Project/MyOperationQueue/Classes/SSHKey.m0000000000000000^3896"CompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/SSHKey.o Classes/SSHKey.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/korzun1993/Documents/Project/MyOperationQueue    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-generated-files.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-own-target-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-all-target-headers.hmap -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-project-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources/i386 -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources -F/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator -include /var/folders/s_/w4l9jw3d27nb33b6dj5whpcr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyOperationQueue-Prefix-eipkhlvdfeqijhbbvixfmbdcemhw/MyOperationQueue-Prefix.pch -MMD -MT dependencies -MF /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/SSHKey.d --serialize-diagnostics /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/SSHKey.dia -c /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/SSHKey.m -o /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/SSHKey.o36"8233540A-7366-43EE-BCDB-05A3CF1C6787-
+
+CCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Session.o /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Session.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s372546711.930723
+e372546712.005485
+r1
+xCompileC
+xbuild/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Session.o
+x/Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Session.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Session.m0c77ee979c34b641^f6ee03989c34b641^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Session.m0000000000000000^3902"CompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Session.o Classes/Session.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/korzun1993/Documents/Project/MyOperationQueue    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-generated-files.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-own-target-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-all-target-headers.hmap -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-project-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources/i386 -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources -F/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator -include /var/folders/s_/w4l9jw3d27nb33b6dj5whpcr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyOperationQueue-Prefix-eipkhlvdfeqijhbbvixfmbdcemhw/MyOperationQueue-Prefix.pch -MMD -MT dependencies -MF /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Session.d --serialize-diagnostics /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Session.dia -c /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/Session.m -o /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/Session.o36"A05C9CF9-2528-470D-9A5B-71D2D2E71C9D-
+
+CCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/User.o /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/User.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s372546711.940066
+e372546712.033923
+r1
+xCompileC
+xbuild/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/User.o
+x/Users/korzun1993/Documents/Project/MyOperationQueue/Classes/User.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/User.m89d4f0979c34b641^daae08989c34b641^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Users/korzun1993/Documents/Project/MyOperationQueue/Classes/User.m0000000000000000^3884"CompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/User.o Classes/User.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/korzun1993/Documents/Project/MyOperationQueue    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-generated-files.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-own-target-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-all-target-headers.hmap -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-project-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources/i386 -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources -F/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator -include /var/folders/s_/w4l9jw3d27nb33b6dj5whpcr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyOperationQueue-Prefix-eipkhlvdfeqijhbbvixfmbdcemhw/MyOperationQueue-Prefix.pch -MMD -MT dependencies -MF /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/User.d --serialize-diagnostics /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/User.dia -c /Users/korzun1993/Documents/Project/MyOperationQueue/Classes/User.m -o /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/User.o36"11FB810A-C44B-43DE-8074-AC93E6E3AA47-
+
+CCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/ViewController.o /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s372552617.212881
+e372552619.369751
+r1
+xCompileC
+xbuild/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/ViewController.o
+x/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/ViewController.m40a536a9b334b641^44a85eabb334b641^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/ViewController.m0000000000000000^3962"CompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/ViewController.o MyOperationQueue/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/korzun1993/Documents/Project/MyOperationQueue    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-generated-files.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-own-target-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-all-target-headers.hmap -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-project-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources/i386 -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources -F/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator -include /var/folders/s_/w4l9jw3d27nb33b6dj5whpcr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyOperationQueue-Prefix-eipkhlvdfeqijhbbvixfmbdcemhw/MyOperationQueue-Prefix.pch -MMD -MT dependencies -MF /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/ViewController.dia -c /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/ViewController.m -o /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/ViewController.o36"CC91724F-945B-4ACB-B6D6-94B95DF802D9-
+
+CCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/main.o /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s372529148.886286
+e372529149.058563
+r1
+xCompileC
+xbuild/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/main.o
+x/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/main.m0916e3fc5734b641^0ebf0ffd5734b641^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/main.m0000000000000000^3902"CompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/main.o MyOperationQueue/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/korzun1993/Documents/Project/MyOperationQueue    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-generated-files.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-own-target-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-all-target-headers.hmap -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-project-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources/i386 -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources -F/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator -include /var/folders/s_/w4l9jw3d27nb33b6dj5whpcr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyOperationQueue-Prefix-eipkhlvdfeqijhbbvixfmbdcemhw/MyOperationQueue-Prefix.pch -MMD -MT dependencies -MF /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/main.dia -c /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/main.m -o /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/main.o36"3ABE7E07-9D58-4687-8280-873F9F5BC1A3-
+
+CCompileXIB /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/en.lproj/ViewController.xib
+s372410773.623120
+e372410774.254939
+r1
+xCompileXIB
+x/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/en.lproj/ViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compiling /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/en.lproj/ViewController.xibc8989f958932b641^134441968932b641^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/en.lproj/ViewController.xib0000000000000000^983"CompileXIB MyOperationQueue/en.lproj/ViewController.xib    cd /Users/korzun1993/Documents/Project/MyOperationQueue    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/en.lproj/ViewController.nib /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/en.lproj/ViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"571FD793-6929-440C-879A-7BF7022447F1-
+
+CCopyStringsFile /Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/en.lproj/InfoPlist.strings MyOperationQueue/en.lproj/InfoPlist.strings
+s372410773.618729
+e372410773.621927
+r1
+xCopyStringsFile
+x/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/en.lproj/InfoPlist.strings
+xMyOperationQueue/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy MyOperationQueue/en.lproj/InfoPlist.stringsbb7d9e958932b641^22379f958932b641^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/en.lproj/InfoPlist.strings0000000000000000^639"CopyStringsFile build/Debug-iphonesimulator/MyOperationQueue.app/en.lproj/InfoPlist.strings MyOperationQueue/en.lproj/InfoPlist.strings    cd /Users/korzun1993/Documents/Project/MyOperationQueue    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/en.lproj -- MyOperationQueue/en.lproj/InfoPlist.strings36"859D8415-6C02-401B-8A39-12800B57F104-
+
+CCpResource MyOperationQueue/Default-568h@2x.png build/Debug-iphonesimulator/MyOperationQueue.app/Default-568h@2x.png
+s372410773.618957
+e372410773.624906
+r1
+xCpResource
+xMyOperationQueue/Default-568h@2x.png
+xbuild/Debug-iphonesimulator/MyOperationQueue.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Copy build/Debug-iphonesimulator/MyOperationQueue.app/Default-568h@2x.pnga08b9e958932b641^8ffa9f958932b641^---0#0#0#-19%DVTDocumentLocation2@137"file://localhost/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/Default-568h@2x.png000000000080d041^682"CpResource "MyOperationQueue/Default-568h@2x.png" "build/Debug-iphonesimulator/MyOperationQueue.app/Default-568h@2x.png"    cd /Users/korzun1993/Documents/Project/MyOperationQueue    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/Default-568h@2x.png" /Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app36"95ACD53F-5E87-40C3-B609-61FEC15AFA06-
+
+CCpResource MyOperationQueue/Default.png build/Debug-iphonesimulator/MyOperationQueue.app/Default.png
+s372410773.618724
+e372410773.622432
+r1
+xCpResource
+xMyOperationQueue/Default.png
+xbuild/Debug-iphonesimulator/MyOperationQueue.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Copy build/Debug-iphonesimulator/MyOperationQueue.app/Default.pngbb7d9e958932b641^6d589f958932b641^---0#0#0#-19%DVTDocumentLocation2@129"file://localhost/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/Default.png000000000080d041^652"CpResource MyOperationQueue/Default.png build/Debug-iphonesimulator/MyOperationQueue.app/Default.png    cd /Users/korzun1993/Documents/Project/MyOperationQueue    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/Default.png /Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app36"00CD0611-AD14-40BE-85A0-DAD21AA689D0-
+
+CCpResource MyOperationQueue/Default@2x.png build/Debug-iphonesimulator/MyOperationQueue.app/Default@2x.png
+s372410773.618955
+e372410773.623924
+r1
+xCpResource
+xMyOperationQueue/Default@2x.png
+xbuild/Debug-iphonesimulator/MyOperationQueue.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Copy build/Debug-iphonesimulator/MyOperationQueue.app/Default@2x.pngc68a9e958932b641^67ba9f958932b641^---0#0#0#-19%DVTDocumentLocation2@132"file://localhost/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/Default@2x.png000000000080d041^667"CpResource "MyOperationQueue/Default@2x.png" "build/Debug-iphonesimulator/MyOperationQueue.app/Default@2x.png"    cd /Users/korzun1993/Documents/Project/MyOperationQueue    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/Default@2x.png" /Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app36"AFD6C5C3-E22B-4C2B-8890-2AF0DEFC3360-
+
+CGenerateDSYMFile /Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app.dSYM /Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/MyOperationQueue
+s372553605.280571
+e372553605.314558
+r1
+xGenerateDSYMFile
+x/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app.dSYM
+x/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/MyOperationQueue
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Generating /Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app.dSYMe6ea4785b734b641^01875085b734b641^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app.dSYM/0000000000000000^721"GenerateDSYMFile build/Debug-iphonesimulator/MyOperationQueue.app.dSYM build/Debug-iphonesimulator/MyOperationQueue.app/MyOperationQueue    cd /Users/korzun1993/Documents/Project/MyOperationQueue    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/MyOperationQueue -o /Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app.dSYM36"D5C09C87-1A2E-47FD-A96A-28588437F55F-
+
+CLd /Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/MyOperationQueue normal i386
+s372553605.237322
+e372553605.273950
+r1
+xLd
+x/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/MyOperationQueue
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Link /Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/MyOperationQueue1edd3c85b734b641^f7224685b734b641^---0#0#0#--1269"Ld build/Debug-iphonesimulator/MyOperationQueue.app/MyOperationQueue normal i386    cd /Users/korzun1993/Documents/Project/MyOperationQueue    setenv IPHONEOS_DEPLOYMENT_TARGET 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -L/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator -F/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator -filelist /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/MyOperationQueue.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.0 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/MyOperationQueue36"0B141126-A96D-47F6-AE6C-7D0C717CF82E-
+
+CProcessInfoPlistFile /Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/Info.plist MyOperationQueue/MyOperationQueue-Info.plist
+s372529148.419459
+e372529148.460979
+r1
+xProcessInfoPlistFile
+x/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/Info.plist
+xMyOperationQueue/MyOperationQueue-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Process MyOperationQueue/MyOperationQueue-Info.plistb7d071fc5734b641^d50376fc5734b641^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/MyOperationQueue-Info.plist0000000000000000^755"ProcessInfoPlistFile build/Debug-iphonesimulator/MyOperationQueue.app/Info.plist MyOperationQueue/MyOperationQueue-Info.plist    cd /Users/korzun1993/Documents/Project/MyOperationQueue    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MyOperationQueue/MyOperationQueue-Info.plist -genpkginfo /Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/Info.plist36"1762028E-1C1E-4290-8D99-4031EDBEB7B8-
+
+CProcessPCH /Users/korzun1993/Documents/Project/MyOperationQueue/DerivedData/MyOperationQueue/Index/PrecompiledHeaders/MyOperationQueue-Prefix-ghcgwerzhbclleatshaxqlpcwhfw_ast/MyOperationQueue-Prefix.pch.pth MyOperationQueue/MyOperationQueue-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/korzun1993/Documents/Project/MyOperationQueue/DerivedData/MyOperationQueue/Index/PrecompiledHeaders/MyOperationQueue-Prefix-heyrvupsxdnotyenzmwthleyahbd_ast/MyOperationQueue-Prefix.pch.pth MyOperationQueue/MyOperationQueue-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/s_/w4l9jw3d27nb33b6dj5whpcr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyOperationQueue-Prefix-cphgwnoxyfsxutexcbjgppbmmgzp/MyOperationQueue-Prefix.pch.pth MyOperationQueue/MyOperationQueue-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s372410770.150210
+e372410772.709735
+r1
+xProcessPCH
+x/var/folders/s_/w4l9jw3d27nb33b6dj5whpcr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyOperationQueue-Prefix-cphgwnoxyfsxutexcbjgppbmmgzp/MyOperationQueue-Prefix.pch.pth
+xMyOperationQueue/MyOperationQueue-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Precompile MyOperationQueue/MyOperationQueue-Prefix.pchb79926928932b641^2713d3948932b641^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/MyOperationQueue-Prefix.pch0000000000000000^3918"ProcessPCH /var/folders/s_/w4l9jw3d27nb33b6dj5whpcr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyOperationQueue-Prefix-cphgwnoxyfsxutexcbjgppbmmgzp/MyOperationQueue-Prefix.pch.pth MyOperationQueue/MyOperationQueue-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/korzun1993/Documents/Project/MyOperationQueue    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-generated-files.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-own-target-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-all-target-headers.hmap -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-project-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources/i386 -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources -F/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/s_/w4l9jw3d27nb33b6dj5whpcr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyOperationQueue-Prefix-cphgwnoxyfsxutexcbjgppbmmgzp/MyOperationQueue-Prefix.pch.dia -c /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/MyOperationQueue-Prefix.pch -o /var/folders/s_/w4l9jw3d27nb33b6dj5whpcr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyOperationQueue-Prefix-cphgwnoxyfsxutexcbjgppbmmgzp/MyOperationQueue-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/s_/w4l9jw3d27nb33b6dj5whpcr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyOperationQueue-Prefix-cphgwnoxyfsxutexcbjgppbmmgzp/MyOperationQueue-Prefix.pch.d36"FB89D342-3049-42DC-AFA0-B5EF2B060794-
+
+CProcessPCH /var/folders/s_/w4l9jw3d27nb33b6dj5whpcr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyOperationQueue-Prefix-eipkhlvdfeqijhbbvixfmbdcemhw/MyOperationQueue-Prefix.pch.pth MyOperationQueue/MyOperationQueue-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s372529148.470185
+e372529148.879507
+r1
+xProcessPCH
+x/var/folders/s_/w4l9jw3d27nb33b6dj5whpcr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyOperationQueue-Prefix-eipkhlvdfeqijhbbvixfmbdcemhw/MyOperationQueue-Prefix.pch.pth
+xMyOperationQueue/MyOperationQueue-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Precompile MyOperationQueue/MyOperationQueue-Prefix.pch917d78fc5734b641^ed29e1fc5734b641^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/MyOperationQueue-Prefix.pch0000000000000000^3918"ProcessPCH /var/folders/s_/w4l9jw3d27nb33b6dj5whpcr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyOperationQueue-Prefix-eipkhlvdfeqijhbbvixfmbdcemhw/MyOperationQueue-Prefix.pch.pth MyOperationQueue/MyOperationQueue-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/korzun1993/Documents/Project/MyOperationQueue    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-generated-files.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-own-target-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-all-target-headers.hmap -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-project-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources/i386 -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources -F/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/s_/w4l9jw3d27nb33b6dj5whpcr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyOperationQueue-Prefix-eipkhlvdfeqijhbbvixfmbdcemhw/MyOperationQueue-Prefix.pch.dia -c /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/MyOperationQueue-Prefix.pch -o /var/folders/s_/w4l9jw3d27nb33b6dj5whpcr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyOperationQueue-Prefix-eipkhlvdfeqijhbbvixfmbdcemhw/MyOperationQueue-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/s_/w4l9jw3d27nb33b6dj5whpcr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyOperationQueue-Prefix-eipkhlvdfeqijhbbvixfmbdcemhw/MyOperationQueue-Prefix.pch.d36"07D1B0B9-B2DA-4AC5-BE0D-E93E5CF80F85-
+
+CTouch /Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app
+s372553605.331326
+e372553605.337257
+r1
+xTouch
+x/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Touch /Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.appe6e55485b734b641^21575685b734b641^---0#0#0#--434"Touch build/Debug-iphonesimulator/MyOperationQueue.app    cd /Users/korzun1993/Documents/Project/MyOperationQueue    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app36"E10855CE-E9FB-43DC-BC49-67FD1FA7DA30-
+

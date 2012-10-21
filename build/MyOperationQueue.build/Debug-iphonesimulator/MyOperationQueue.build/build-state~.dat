@@ -1,0 +1,315 @@
+TMyOperationQueue
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/Info.plist MyOperationQueue/MyOperationQueue-Info.plist
+cProcessPCH /var/folders/s_/w4l9jw3d27nb33b6dj5whpcr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyOperationQueue-Prefix-cphgwnoxyfsxutexcbjgppbmmgzp/MyOperationQueue-Prefix.pch.pth MyOperationQueue/MyOperationQueue-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/main.o /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/ViewController.o /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/AppDelegate.o /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/MyOperationQueue normal i386
+cGenerateDSYMFile /Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app.dSYM /Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/MyOperationQueue
+cCpResource MyOperationQueue/Default.png build/Debug-iphonesimulator/MyOperationQueue.app/Default.png
+cCopyStringsFile /Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/en.lproj/InfoPlist.strings MyOperationQueue/en.lproj/InfoPlist.strings
+cCpResource MyOperationQueue/Default@2x.png build/Debug-iphonesimulator/MyOperationQueue.app/Default@2x.png
+cCpResource MyOperationQueue/Default-568h@2x.png build/Debug-iphonesimulator/MyOperationQueue.app/Default-568h@2x.png
+cCompileXIB /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/en.lproj/ViewController.xib
+cTouch /Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+c00000000505A928E0000000000000110
+t1348113038
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000505B86CC0000000000228FD0
+t1348175564
+s2265040
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000505B86CD00000000003DCEF0
+t1348175565
+s4050672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c00000000505B86CD00000000000015F7
+t1348175565
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c00000000505B86D00000000000000E8D
+t1348175568
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000505B86D20000000000AB3D60
+t1348175570
+s11222368
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/Availability.h
+c00000000505B86DC0000000000001B54
+t1348175580
+s6996
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/AppDelegate.m
+c000000005082520300000000000009AD
+t1350717955
+s2477
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/Default-568h@2x.png
+c0000000050262AB100000000000048A2
+t1344678577
+s18594
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/Default.png
+c0000000050262AB1000000000000198C
+t1344678577
+s6540
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/Default@2x.png
+c0000000050262AB10000000000003EEB
+t1344678577
+s16107
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/MyOperationQueue-Prefix.pch
+c0000000050825203000000000000014F
+t1350717955
+s335
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/ViewController.m
+c0000000050825203000000000000021F
+t1350717955
+s543
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/en.lproj/InfoPlist.strings
+c0000000050825203000000000000002D
+t1350717955
+s45
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/en.lproj/ViewController.xib
+c00000000508252030000000000001782
+t1350717955
+s6018
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/main.m
+c00000000508252030000000000000182
+t1350717955
+s386
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app
+t2
+s0
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app.dSYM
+t2
+s0
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/Default-568h@2x.png
+t2
+s0
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/Default.png
+t2
+s0
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/Default@2x.png
+t2
+s0
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/Info.plist
+t2
+s0
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/MyOperationQueue
+t2
+s0
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/PkgInfo
+t2
+s0
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/en.lproj/ViewController.nib
+t2
+s0
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/MyOperationQueue.LinkFileList
+c000000005082521200000000000001DF
+t1350717970
+s479
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/ViewController.o
+t2
+s0
+
+N/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/var/folders/s_/w4l9jw3d27nb33b6dj5whpcr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyOperationQueue-Prefix-cphgwnoxyfsxutexcbjgppbmmgzp/MyOperationQueue-Prefix.pch.pth
+t2
+s0
+
+NMyOperationQueue/MyOperationQueue-Info.plist
+c0000000050825203000000000000048E
+t1350717955
+s1166
+
+CBuild AST from /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/AppDelegate.m
+r0
+
+CBuild AST from /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/ViewController.m
+r0
+
+CBuild AST from /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesdcf2f9918932b641^71381f928932b641^---0#1#0#--18"Check dependencies36"F755B778-E1B1-45FC-A346-D53D72D69978-
+
+CCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/AppDelegate.o /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s372410772.716751
+e372410772.903273
+r1
+xCompileC
+xbuild/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/AppDelegate.o
+x/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/AppDelegate.mc6a8b7948932b641^1bd4ea948932b641^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/AppDelegate.m0000000000000000^3944"CompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/AppDelegate.o MyOperationQueue/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/korzun1993/Documents/Project/MyOperationQueue    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-generated-files.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-own-target-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-all-target-headers.hmap -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-project-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources/i386 -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources -F/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator -include /var/folders/s_/w4l9jw3d27nb33b6dj5whpcr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyOperationQueue-Prefix-cphgwnoxyfsxutexcbjgppbmmgzp/MyOperationQueue-Prefix.pch -MMD -MT dependencies -MF /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/AppDelegate.dia -c /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/AppDelegate.m -o /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/AppDelegate.o36"BA047659-E10E-415C-9E18-6B5770C9C14D-
+
+CCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/ViewController.o /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s372410772.716744
+e372410772.900285
+r1
+xCompileC
+xbuild/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/ViewController.o
+x/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/ViewController.m1fa0b7948932b641^ffceea948932b641^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/ViewController.m0000000000000000^3962"CompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/ViewController.o MyOperationQueue/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/korzun1993/Documents/Project/MyOperationQueue    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-generated-files.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-own-target-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-all-target-headers.hmap -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-project-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources/i386 -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources -F/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator -include /var/folders/s_/w4l9jw3d27nb33b6dj5whpcr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyOperationQueue-Prefix-cphgwnoxyfsxutexcbjgppbmmgzp/MyOperationQueue-Prefix.pch -MMD -MT dependencies -MF /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/ViewController.dia -c /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/ViewController.m -o /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/ViewController.o36"274F5332-0120-41D6-B6CB-C32266DD40EB-
+
+CCompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/main.o /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s372410772.716733
+e372410772.883993
+r1
+xCompileC
+xbuild/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/main.o
+x/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/main.mc6a4b7948932b641^9dd6e5948932b641^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/main.m0000000000000000^3902"CompileC build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/main.o MyOperationQueue/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/korzun1993/Documents/Project/MyOperationQueue    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-generated-files.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-own-target-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-all-target-headers.hmap -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-project-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources/i386 -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources -F/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator -include /var/folders/s_/w4l9jw3d27nb33b6dj5whpcr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyOperationQueue-Prefix-cphgwnoxyfsxutexcbjgppbmmgzp/MyOperationQueue-Prefix.pch -MMD -MT dependencies -MF /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/main.dia -c /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/main.m -o /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/main.o36"EE0B4DBE-8D05-4E12-8A49-2D1D1A82AF8B-
+
+CCompileXIB /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/en.lproj/ViewController.xib
+s372410773.623120
+e372410774.254939
+r1
+xCompileXIB
+x/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/en.lproj/ViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compiling /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/en.lproj/ViewController.xibc8989f958932b641^134441968932b641^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/en.lproj/ViewController.xib0000000000000000^983"CompileXIB MyOperationQueue/en.lproj/ViewController.xib    cd /Users/korzun1993/Documents/Project/MyOperationQueue    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/en.lproj/ViewController.nib /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/en.lproj/ViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"571FD793-6929-440C-879A-7BF7022447F1-
+
+CCopyStringsFile /Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/en.lproj/InfoPlist.strings MyOperationQueue/en.lproj/InfoPlist.strings
+s372410773.618729
+e372410773.621927
+r1
+xCopyStringsFile
+x/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/en.lproj/InfoPlist.strings
+xMyOperationQueue/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy MyOperationQueue/en.lproj/InfoPlist.stringsbb7d9e958932b641^22379f958932b641^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/en.lproj/InfoPlist.strings0000000000000000^639"CopyStringsFile build/Debug-iphonesimulator/MyOperationQueue.app/en.lproj/InfoPlist.strings MyOperationQueue/en.lproj/InfoPlist.strings    cd /Users/korzun1993/Documents/Project/MyOperationQueue    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/en.lproj -- MyOperationQueue/en.lproj/InfoPlist.strings36"859D8415-6C02-401B-8A39-12800B57F104-
+
+CCpResource MyOperationQueue/Default-568h@2x.png build/Debug-iphonesimulator/MyOperationQueue.app/Default-568h@2x.png
+s372410773.618957
+e372410773.624906
+r1
+xCpResource
+xMyOperationQueue/Default-568h@2x.png
+xbuild/Debug-iphonesimulator/MyOperationQueue.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Copy build/Debug-iphonesimulator/MyOperationQueue.app/Default-568h@2x.pnga08b9e958932b641^8ffa9f958932b641^---0#0#0#-19%DVTDocumentLocation2@137"file://localhost/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/Default-568h@2x.png000000000080d041^682"CpResource "MyOperationQueue/Default-568h@2x.png" "build/Debug-iphonesimulator/MyOperationQueue.app/Default-568h@2x.png"    cd /Users/korzun1993/Documents/Project/MyOperationQueue    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/Default-568h@2x.png" /Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app36"95ACD53F-5E87-40C3-B609-61FEC15AFA06-
+
+CCpResource MyOperationQueue/Default.png build/Debug-iphonesimulator/MyOperationQueue.app/Default.png
+s372410773.618724
+e372410773.622432
+r1
+xCpResource
+xMyOperationQueue/Default.png
+xbuild/Debug-iphonesimulator/MyOperationQueue.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Copy build/Debug-iphonesimulator/MyOperationQueue.app/Default.pngbb7d9e958932b641^6d589f958932b641^---0#0#0#-19%DVTDocumentLocation2@129"file://localhost/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/Default.png000000000080d041^652"CpResource MyOperationQueue/Default.png build/Debug-iphonesimulator/MyOperationQueue.app/Default.png    cd /Users/korzun1993/Documents/Project/MyOperationQueue    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/Default.png /Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app36"00CD0611-AD14-40BE-85A0-DAD21AA689D0-
+
+CCpResource MyOperationQueue/Default@2x.png build/Debug-iphonesimulator/MyOperationQueue.app/Default@2x.png
+s372410773.618955
+e372410773.623924
+r1
+xCpResource
+xMyOperationQueue/Default@2x.png
+xbuild/Debug-iphonesimulator/MyOperationQueue.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Copy build/Debug-iphonesimulator/MyOperationQueue.app/Default@2x.pngc68a9e958932b641^67ba9f958932b641^---0#0#0#-19%DVTDocumentLocation2@132"file://localhost/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/Default@2x.png000000000080d041^667"CpResource "MyOperationQueue/Default@2x.png" "build/Debug-iphonesimulator/MyOperationQueue.app/Default@2x.png"    cd /Users/korzun1993/Documents/Project/MyOperationQueue    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/Default@2x.png" /Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app36"AFD6C5C3-E22B-4C2B-8890-2AF0DEFC3360-
+
+CGenerateDSYMFile /Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app.dSYM /Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/MyOperationQueue
+s372410773.539688
+e372410773.609484
+r1
+xGenerateDSYMFile
+x/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app.dSYM
+x/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/MyOperationQueue
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Generating /Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app.dSYMe06790958932b641^bc079c958932b641^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app.dSYM000000000080d041^721"GenerateDSYMFile build/Debug-iphonesimulator/MyOperationQueue.app.dSYM build/Debug-iphonesimulator/MyOperationQueue.app/MyOperationQueue    cd /Users/korzun1993/Documents/Project/MyOperationQueue    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/MyOperationQueue -o /Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app.dSYM36"594F62B1-03A8-4397-90AD-20CCAFB526D7-
+
+CLd /Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/MyOperationQueue normal i386
+s372410772.910711
+e372410773.523161
+r1
+xLd
+x/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/MyOperationQueue
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Link /Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/MyOperationQueued941e9948932b641^12a086958932b641^---0#0#0#--1269"Ld build/Debug-iphonesimulator/MyOperationQueue.app/MyOperationQueue normal i386    cd /Users/korzun1993/Documents/Project/MyOperationQueue    setenv IPHONEOS_DEPLOYMENT_TARGET 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -L/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator -F/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator -filelist /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/Objects-normal/i386/MyOperationQueue.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.0 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/MyOperationQueue36"A857D6A9-86C5-4E33-93F0-F49CA6A0C31D-
+
+CProcessInfoPlistFile /Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/Info.plist MyOperationQueue/MyOperationQueue-Info.plist
+s372410770.128515
+e372410770.142088
+r1
+xProcessInfoPlistFile
+x/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/Info.plist
+xMyOperationQueue/MyOperationQueue-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Process MyOperationQueue/MyOperationQueue-Info.plist670a21928932b641^aa6024928932b641^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/MyOperationQueue-Info.plist0000000000000000^755"ProcessInfoPlistFile build/Debug-iphonesimulator/MyOperationQueue.app/Info.plist MyOperationQueue/MyOperationQueue-Info.plist    cd /Users/korzun1993/Documents/Project/MyOperationQueue    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MyOperationQueue/MyOperationQueue-Info.plist -genpkginfo /Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app/Info.plist36"F6ACAE50-9502-4237-9C49-1C9208A8E318-
+
+CProcessPCH /Users/korzun1993/Documents/Project/MyOperationQueue/DerivedData/MyOperationQueue/Index/PrecompiledHeaders/MyOperationQueue-Prefix-ghcgwerzhbclleatshaxqlpcwhfw_ast/MyOperationQueue-Prefix.pch.pth MyOperationQueue/MyOperationQueue-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/s_/w4l9jw3d27nb33b6dj5whpcr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyOperationQueue-Prefix-cphgwnoxyfsxutexcbjgppbmmgzp/MyOperationQueue-Prefix.pch.pth MyOperationQueue/MyOperationQueue-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s372410770.150210
+e372410772.709735
+r1
+xProcessPCH
+x/var/folders/s_/w4l9jw3d27nb33b6dj5whpcr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyOperationQueue-Prefix-cphgwnoxyfsxutexcbjgppbmmgzp/MyOperationQueue-Prefix.pch.pth
+xMyOperationQueue/MyOperationQueue-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Precompile MyOperationQueue/MyOperationQueue-Prefix.pchb79926928932b641^2713d3948932b641^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/MyOperationQueue-Prefix.pch0000000000000000^3918"ProcessPCH /var/folders/s_/w4l9jw3d27nb33b6dj5whpcr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyOperationQueue-Prefix-cphgwnoxyfsxutexcbjgppbmmgzp/MyOperationQueue-Prefix.pch.pth MyOperationQueue/MyOperationQueue-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/korzun1993/Documents/Project/MyOperationQueue    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-generated-files.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-own-target-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-all-target-headers.hmap -iquote /Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/MyOperationQueue-project-headers.hmap -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources/i386 -I/Users/korzun1993/Documents/Project/MyOperationQueue/build/MyOperationQueue.build/Debug-iphonesimulator/MyOperationQueue.build/DerivedSources -F/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/s_/w4l9jw3d27nb33b6dj5whpcr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyOperationQueue-Prefix-cphgwnoxyfsxutexcbjgppbmmgzp/MyOperationQueue-Prefix.pch.dia -c /Users/korzun1993/Documents/Project/MyOperationQueue/MyOperationQueue/MyOperationQueue-Prefix.pch -o /var/folders/s_/w4l9jw3d27nb33b6dj5whpcr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyOperationQueue-Prefix-cphgwnoxyfsxutexcbjgppbmmgzp/MyOperationQueue-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/s_/w4l9jw3d27nb33b6dj5whpcr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyOperationQueue-Prefix-cphgwnoxyfsxutexcbjgppbmmgzp/MyOperationQueue-Prefix.pch.d36"FB89D342-3049-42DC-AFA0-B5EF2B060794-
+
+CTouch /Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app
+s372410774.263127
+e372410774.322760
+r1
+xTouch
+x/Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Touch /Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app2f6e43968932b641^01a452968932b641^---0#0#0#--434"Touch build/Debug-iphonesimulator/MyOperationQueue.app    cd /Users/korzun1993/Documents/Project/MyOperationQueue    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/korzun1993/Documents/Project/MyOperationQueue/build/Debug-iphonesimulator/MyOperationQueue.app36"6FBDB782-87C4-4243-9430-670FCC5A5023-
+
